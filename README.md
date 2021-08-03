@@ -1,3 +1,4 @@
+[![Build Status](https://app.travis-ci.com/Samurai-Kyo/saasstuff4.svg?token=v7EBRH9nExJak3M7BE3D&branch=main)](https://app.travis-ci.com/Samurai-Kyo/saasstuff4)
 # TDD with RSpec
 
 In this assignment you will use a combination of Acceptance and
